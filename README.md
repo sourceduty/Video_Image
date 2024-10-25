@@ -10,7 +10,7 @@ To achieve this, Video Image takes users through a step-by-step, multiple-choice
 #
 ### Related Links
 
-[Video Image](https://chatgpt.com/g/g-LNtncGSSz-video-image)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
